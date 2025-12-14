@@ -1,0 +1,46 @@
+baseURL = "https://karll0s.github.io/meu-blog/"
+languageCode = "pt-br"
+title = "Simples Nerd"
+theme = "PaperMod"
+
+enableEmoji = true
+
+[params]
+  description = "💻🐧 Um cantinho simples onde compartilho coisas sobre Linux, tecnologia e tudo mais que desperta minha curiosidade nerd."
+
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+
+  env = "production"
+
+  [params.homeInfoParams]
+    Title = "👋 Olá, eu sou o Simples Nerd"
+    Content = """
+💡 Bem-vindo ao **Simples Nerd**!
+
+Aqui eu escrevo de forma simples e direta sobre:
+- 🐧 **Linux**
+- 🧠 **Tecnologia**
+- 🛠️ **Experimentos, dicas e curiosidades**
+- 🎮 E outras coisas nerds que me interessam
+
+Sinta-se em casa ☕
+"""
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 2
