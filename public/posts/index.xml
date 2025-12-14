@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Simples Nerd</title>
-    <link>https://karll0s.github.io/meu-blog/posts/</link>
+    <link>http://localhost:1313/meu-blog/posts/</link>
     <description>Recent content in Posts on Simples Nerd</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://karll0s.github.io/meu-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/meu-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meu primeiro post</title>
-      <link>https://karll0s.github.io/meu-blog/posts/meu-primeiro-post/</link>
+      <link>http://localhost:1313/meu-blog/posts/meu-primeiro-post/</link>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://karll0s.github.io/meu-blog/posts/meu-primeiro-post/</guid>
+      <guid>http://localhost:1313/meu-blog/posts/meu-primeiro-post/</guid>
       <description>&lt;h1 id=&#34;olá-mundo-&#34;&gt;Olá mundo 👋&lt;/h1&gt;
 &lt;p&gt;Esse é meu primeiro post usando &lt;strong&gt;Hugo + PaperMod no Arch Linux&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>

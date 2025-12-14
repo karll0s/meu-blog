@@ -18,6 +18,15 @@ enableEmoji = true
   ShowBreadCrumbs = true
   ShowToc = true
 
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/karll0s"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+
   env = "production"
 
   [params.homeInfoParams]

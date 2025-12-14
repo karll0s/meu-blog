@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://karll0s.github.io/meu-blog/posts/meu-primeiro-post/</loc>
+    <loc>http://localhost:1313/meu-blog/posts/meu-primeiro-post/</loc>
     <lastmod>2025-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://karll0s.github.io/meu-blog/posts/</loc>
+    <loc>http://localhost:1313/meu-blog/posts/</loc>
     <lastmod>2025-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://karll0s.github.io/meu-blog/</loc>
+    <loc>http://localhost:1313/meu-blog/</loc>
     <lastmod>2025-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://karll0s.github.io/meu-blog/categories/</loc>
+    <loc>http://localhost:1313/meu-blog/categories/</loc>
   </url><url>
-    <loc>https://karll0s.github.io/meu-blog/sobre/</loc>
+    <loc>http://localhost:1313/meu-blog/sobre/</loc>
   </url><url>
-    <loc>https://karll0s.github.io/meu-blog/tags/</loc>
+    <loc>http://localhost:1313/meu-blog/tags/</loc>
   </url>
 </urlset>
